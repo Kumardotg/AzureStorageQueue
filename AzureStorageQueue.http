@@ -1,0 +1,6 @@
+@AzureStorageQueue_HostAddress = http://localhost:5134
+
+GET {{AzureStorageQueue_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

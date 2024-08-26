@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wxJJRMnxBCvqVLMPoemUHLwW6pyb19dBX+R5ios5dKE=",
+  "Source": "AzureStorageQueue",
+  "BasePath": "_content/AzureStorageQueue",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
